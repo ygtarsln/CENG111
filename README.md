@@ -1,2 +1,8 @@
 # CENG111
-All the coursework including homeworks and laboratory quiz questions related to CENG111: Introduction to Computer Engineering Concepts 
+All the coursework including:
+
+-Homeworks
+-Programming assignments
+-Laboratory exams
+
+related to course CENG111:Introduction to Computer Engineering Concepts
